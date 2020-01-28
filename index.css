@@ -49,5 +49,5 @@ footer {
 }
 
 .self div {
-  align-self: flex-end;
+  flex: auto;
 }
