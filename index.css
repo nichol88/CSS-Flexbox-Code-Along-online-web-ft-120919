@@ -48,6 +48,6 @@ footer {
   flex-grow: 1;
 }
 
-div .self {
+.self div {
   align-self: flex-end;
 }
